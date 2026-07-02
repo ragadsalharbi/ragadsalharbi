@@ -75,6 +75,15 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragadsalharbi&theme=tokyonight" alt="Profile Summary" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragadsalharbi&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
 
 ## 📊 GitHub Stats
 
