@@ -75,19 +75,15 @@
 
 ---
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragadsalharbi&theme=tokyonight" alt="Profile Summary" width="80%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragadsalharbi&theme=tokyonight" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragadsalharbi&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragadsalharbi&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragadsalharbi&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragadsalharbi&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragadsalharbi&theme=tokyonight&utcOffset=3" height="170" />
 </p>
