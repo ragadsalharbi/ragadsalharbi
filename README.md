@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I am a Computer Science graduate with a strong passion for data and Artificial Intelligence. I have hands-on experience in data engineering, building robust data pipelines that transform and prepare data for AI and analytical models. I specialize in ensuring data quality and reliability to enable accurate insights and scalable AI solutions[cite: 2].
+  I am a Computer Science graduate with a strong passion for data and Artificial Intelligence. I have hands-on experience in data engineering, building robust data pipelines that transform and prepare data for AI and analytical models. I specialize in ensuring data quality and reliability to enable accurate insights and scalable AI solutions.
 </p>
 
 <p align="center">
