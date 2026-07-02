@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Raghad Sultan Alharbi 👋🏻 </h1>
+<h1 align="center">Hi there, I'm Raghad Alharbi 👋🏻 </h1>
 
 <p align="center">
   <b>Data Engineer & AI Specialist</b>
