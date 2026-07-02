@@ -41,37 +41,37 @@
 
 ## 💼 Experience
 
-- **Master Works — IT Intern (Riyadh Airports Project)** *(March – June 2025)*[cite: 2]  
-  * Contributed to a company-wide data governance initiative using **Informatica CDGC**[cite: 2].
-  * Designed a centralized data catalog, created business glossaries, and enforced privacy policies on sensitive data[cite: 2].
-  * Conducted metadata scanning, data classification, and assigned stewardship roles to ensure data quality[cite: 2].
-  * *Tech Stack:* `Python`, `SQL`, `Informatica CDGC`, `ETL Tools`, `Data Warehousing`, `Power BI`[cite: 2].
+- **Master Works — IT Intern (Riyadh Airports Project)** *(March – June 2025)*. 
+  * Contributed to a company-wide data governance initiative using **Informatica CDGC**.
+  * Designed a centralized data catalog, created business glossaries, and enforced privacy policies on sensitive data.
+  * Conducted metadata scanning, data classification, and assigned stewardship roles to ensure data quality.
+  * *Tech Stack:* `Python`, `SQL`, `Informatica CDGC`, `ETL Tools`, `Data Warehousing`, `Power BI`.
 
 ---
 
 ## 🧩 Featured Projects
 
-- **Übār: Interactive Competitive Party Web Game** *(Graduation Project | Oct 2025 – June 2026)*[cite: 2]  
-  * Designed and built a real-time data analytics layer using **Firebase**, **JavaScript**, and **Node.js**[cite: 2].
-  * Developed data pipelines to capture critical gameplay metrics (user interactions, session durations, and team performance) to analyze user behavior[cite: 2].
-  * *Tech Stack:* `Firebase`, `JavaScript`, `Node.js`, `HTML/CSS`, `Power BI`[cite: 2].
+- **Übār: Interactive Competitive Party Web Game** *(Graduation Project | Oct 2025 – June 2026)*  
+  * Designed and built a real-time data analytics layer using **Firebase**, **JavaScript**, and **Node.js**
+  * Developed data pipelines to capture critical gameplay metrics (user interactions, session durations, and team performance) to analyze user behavior.
+  * *Tech Stack:* `Firebase`, `JavaScript`, `Node.js`, `HTML/CSS`, `Power BI`.
 
-- **Multi-Model Sentiment Analysis Framework** *(NLP Project | April 2026)*[cite: 2]  
-  * Developed an NLP pipeline to classify sentiments using pretrained models (**BERT**, **RoBERTa**, **DistilBERT**)[cite: 2].
-  * Built a data normalization layer and implemented a live **Streamlit** app to display real-time predictions and confidence scores[cite: 2].
-  * *Tech Stack:* `Python`, `Hugging Face (Transformers)`, `Scikit-learn`, `Pandas`, `Streamlit`[cite: 2].
+- **Multi-Model Sentiment Analysis Framework** *(NLP Project | April 2026)*  
+  * Developed an NLP pipeline to classify sentiments using pretrained models (**BERT**, **RoBERTa**, **DistilBERT**).
+  * Built a data normalization layer and implemented a live **Streamlit** app to display real-time predictions and confidence scores.
+  * *Tech Stack:* `Python`, `Hugging Face (Transformers)`, `Scikit-learn`, `Pandas`, `Streamlit`.
 
-- **Netflix Stock Classifier** *(AI Project | May 2025)*[cite: 2]  
-  * Engineered a machine learning pipeline to classify historical stock prices using Neural Networks[cite: 2].
-  * Handled missing values, standardized features, and deployed an interactive dashboard using **Streamlit**[cite: 2].
-  * *Tech Stack:* `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Streamlit`[cite: 2].
+- **Netflix Stock Classifier** *(AI Project | May 2025)*  
+  * Engineered a machine learning pipeline to classify historical stock prices using Neural Networks.
+  * Handled missing values, standardized features, and deployed an interactive dashboard using **Streamlit**.
+  * *Tech Stack:* `Python`, `Scikit-learn`, `Pandas`, `NumPy`, `Streamlit`.
 
 ---
 
 ## 🎓 Education
 
-- **Umm Al Qura University** *(September 2022 – June 2026)*[cite: 2]  
-  * Bachelor's degree in **Computer Science** (Based in Makkah)[cite: 2].
+- **Umm Al Qura University** *( 2022 – June 2026)*  
+  * Bachelor's degree in **Computer Science** .
 
 ---
 
