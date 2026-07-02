@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  I am a Computer Science graduate with a strong passion for data and Artificial Intelligence[cite: 2]. I have hands-on experience in data engineering, building robust data pipelines that transform and prepare data for AI and analytical models[cite: 2]. I specialize in ensuring data quality and reliability to enable accurate insights and scalable AI solutions[cite: 2].
+  I am a Computer Science graduate with a strong passion for data and Artificial Intelligence. I have hands-on experience in data engineering, building robust data pipelines that transform and prepare data for AI and analytical models. I specialize in ensuring data quality and reliability to enable accurate insights and scalable AI solutions[cite: 2].
 </p>
 
 <p align="center">
   <a href="mailto:ragadsalharbi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/raghad-alharbi-38a61b326">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
